@@ -1,5 +1,7 @@
 # Описание дашборда
 
+[Ссылка на дашборд в Yandex DataLens](https://datalens.yandex/yew287xk22aep?tab=3g) 
+
 Это переработанная версия [дашборда](https://github.com/PavelNikishin/DE-101/tree/main/Module1/excel-dashboard-superstore) реализванного в MS Excel. 
 
 **Постановка задачи**
